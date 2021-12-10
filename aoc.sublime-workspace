@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JERSE",
+				"JERSEY_COLOR"
+			],
+			[
+				"FA",
+				"FAHRENHEIT_TO_CENTIGRADE"
+			],
+			[
+				"displ",
+				"display_books"
+			],
+			[
+				"computer_make",
+				"computer_make_defensive_move"
+			],
+			[
+				"find_at",
+				"find_at_risk_square"
+			],
+			[
+				"find",
+				"find_winning_square"
+			],
+			[
+				"securi",
+				"security_log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"teri",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus open",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"preferences: terminus key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/aoc"
+	],
+	"file_history":
+	[
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/quiz.rb",
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/highest_lowest.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/stack_machine2.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/stack_machine.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/number_guesser1.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/number_guesser1_fe.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/circular.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/privacy.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/fixed_array.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/students.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/oo_21_ls.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/oo_21.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/x.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/oo_ttt.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/exercises.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rps_bonus.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rps.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/easy_2/pet_shelter.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/109prep.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rb120_lesson2_quiz.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/00_rps_messages.yml",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rps_working.rb",
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/RuboCop/RuboCop.sublime-settings",
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/User/RuboCop.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 363.0
+	},
+	"output.Terminus 10":
+	{
+		"height": 363.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 394.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 237.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 509.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 416.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 363.0
+	},
+	"output.Terminus 7":
+	{
+		"height": 263.0
+	},
+	"output.Terminus 8":
+	{
+		"height": 425.0
+	},
+	"output.Terminus 9":
+	{
+		"height": 395.0
+	},
+	"output.exec":
+	{
+		"height": 328.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aoc.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"109prep.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 414.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
